@@ -1,18 +1,19 @@
-echo "# 19ECB132" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/harshathyadav/19ECB132.git
-git push -u origin main
-https://github.com/harshathyadav/19ECB132/blob/main/add%20delete%20modify%20an%20array
-https://github.com/harshathyadav/19ECB132/blob/main/add%20delete%20modify%20an%20array
-https://github.com/harshathyadav/19ECB132/blob/main/c%20lang
-https://github.com/harshathyadav/19ECB132/blob/main/doublelinked%20list
-https://github.com/harshathyadav/19ECB132/blob/main/hello%20world
-https://github.com/harshathyadav/19ECB132/blob/main/insertion
-https://github.com/harshathyadav/19ECB132/blob/main/lettercount
-https://github.com/harshathyadav/19ECB132/blob/main/linear%20data%20structures
-https://github.com/harshathyadav/19ECB132/blob/main/llinkedlists
-https://github.com/harshathyadav/19ECB132/blob/main/logical%20operator
-https://github.com/harshathyadav/19ECB132/blob/main/single%20linked%20list
+[doublelinkedlist.c](doublelinkedlist.c) 
+
+[add delete modify an array.c](add delete modify an array.c)
+
+[clang.c](clang.c)
+
+[hello world.c](hello world.c)
+
+[insertion.c](insertion.c)
+
+[lettercount.c](letter count.c)
+
+[linear data structures.c](linear data structues.c)
+
+[linkedlists.c](linkedlists.c)
+
+[logical operator.c](logical operator.c)
+
+[single linked list.c](single linked list.c)

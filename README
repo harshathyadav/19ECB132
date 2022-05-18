@@ -1,10 +1,19 @@
-[doublelinkedlist.c](doublelinkedlist.c)   
+[doublelinkedlist.c](doublelinkedlist.c) 
+
 [add delete modify an array.c](add delete modify an array.c)   
-[clang.c](clang.c)   
-[hello world.c](hello world.c)   
-[insertion.c](insertion.c)  
-[lettercount.c](letter count.c)   
+
+[clang.c](clang.c)  
+
+[hello world.c](hello world.c)
+
+[insertion.c](insertion.c)
+
+[lettercount.c](letter count.c)
+
 [linear data structures.c](linear data structues.c)   
+
 [linkedlists.c](linkedlists.c)   
-[logical operator.c](logical operator.c)   
+
+[logical operator.c](logical operator.c)  
+
 [single linked list.c](single linked list.c)   

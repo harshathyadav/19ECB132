@@ -1,6 +1,7 @@
 #include<stdio.h>
-int main(vois)
+int main(void)
 {
 	printf("hello world\n");
 	return 0;
 }
+// hello world

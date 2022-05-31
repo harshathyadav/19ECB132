@@ -1,6 +1,6 @@
 //program to display details
 #include <stdio.h>
- main()
+ int main()
  {
     printf("harshath")
     printf("urikiti")

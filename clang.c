@@ -2,6 +2,6 @@
 #include <stdio.h>
  int main()
  {
-    printf("harshath")
-    printf("urikiti")
- }
+    printf("harshath");
+    printf("urikiti");
+ }//harshathurikiti
